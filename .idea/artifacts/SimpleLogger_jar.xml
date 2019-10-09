@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleLogger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleLogger_jar</output-path>
+    <root id="archive" name="SimpleLogger.jar">
+      <element id="module-output" name="SimpleLogger" />
+    </root>
+  </artifact>
+</component>
